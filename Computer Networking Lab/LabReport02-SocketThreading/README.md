@@ -1,1 +1,2 @@
-
+**Server**
+The Server.java file is responsible for managing client connections and facilitating message broadcasting in the multi-client chat system. It listens for incoming client requests on a specified port (9999) and assigns each new connection to a dedicated thread using the ClientHandler class. The server ensures that messages sent by one client are broadcasted to all connected clients, enabling real-time group chat. To use this, first, run the Server.java file, which will initialize the server and keep it running, waiting for clients to join. This file plays a crucial role in handling multiple users simultaneously, making the chat system functional and scalable.
