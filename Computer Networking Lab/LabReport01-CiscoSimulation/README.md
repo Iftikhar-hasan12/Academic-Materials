@@ -59,8 +59,4 @@ Send test emails between clients.
 
 Follow the Lab_Report.pdf for configuration details and testing.
 
-Author
-Iftikhar Hasan
-
-Computer Networking Lab 
 
