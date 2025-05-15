@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a500ba01-a55a-4f73-9e26-1514d78a615d)# TCP Flow Control and Congestion Control Simulation (Java)
+## TCP Flow Control and Congestion Control Simulation (Java)
 
 This repository contains two simple Java programs that simulate the key mechanisms of **TCP Flow Control** and **TCP Congestion Control**. These simulations are written as part of a Computer Networking Lab assignment at Green University of Bangladesh (GUB).
 
